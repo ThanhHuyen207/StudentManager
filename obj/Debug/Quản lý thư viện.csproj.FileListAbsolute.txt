@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.exe.config
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.exe
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\bin\Debug\Quản lý thư viện.pdb
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.Form1.resources
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản_lý_thư_viện.Properties.Resources.resources
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.exe
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.pdb
+C:\Users\admin\source\repos\Quản lý thư viện\Quản lý thư viện\obj\Debug\Quản lý thư viện.exe.config
