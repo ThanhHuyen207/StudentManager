@@ -18,12 +18,12 @@ namespace Quản_lý_thư_viện
             books.Add(new Book { BookId = " B003", Title = "Java cho người mới", Quantity = 2 });
             ShowBooks();
         }
-    
+    // update for III.4
         private void label3_Click(object sender, EventArgs e)
         {
 
         }
-
+        // Test pull request
         private void btnAddBook_Click(object sender, EventArgs e)
         {
             Book b = new Book();
@@ -34,7 +34,7 @@ namespace Quản_lý_thư_viện
             ShowBooks();
             MessageBox.Show(" Thêm sách thành công!");
         }
-
+        // feature intro changes
         private void btnBorrow_Click(object sender, EventArgs e)
         {
             if (listBooks.SelectedIndex < 0)
@@ -54,6 +54,7 @@ namespace Quản_lý_thư_viện
                 MessageBox.Show(" Sách đã hết!");
             }
         }
+        // Đây là thay đổi test cho Git
         private void btnReturn_Click(object sender, EventArgs e)
         {
             if (listBooks.SelectedIndex < 0)
